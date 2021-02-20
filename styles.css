@@ -7,3 +7,7 @@
 .serif {
     font-family: 'Roboto', sans-serif;
 }
+
+.margin {
+    margin: auto 10% auto 10%;
+}
