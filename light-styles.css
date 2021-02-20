@@ -13,22 +13,22 @@
 }
 
 body {
-    background-color: rgb(242, 242, 247);
+    background-color: #dfe6e9;
 }
 
 h1,h2,h3,h4,h5,h6,p,li {
-    color: rgb(142, 142, 147);
+    color: #2d3436;
 }
 
 a {
     text-decoration: none;
-    color: rgb(0, 122, 255);
+    color: #0984e3;
 }
 
 button {
-    background-color: rgb(52, 199, 89);
+    background-color: #00b894;
     border: none;
-    color: rgb(242, 242, 247);
+    color: #dfe6e9;
     text-align: center;
     text-decoration: none;
     display: block;

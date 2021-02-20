@@ -13,20 +13,20 @@
 }
 
 body {
-    background-color: rgb(28, 28, 30);
+    background-color: #2d3436;
 }
 
 h1,h2,h3,h4,h5,h6,p,li {
-    color: rgb(142, 142, 147);
+    color: #dfe6e9;
 }
 
 a {
     text-decoration: none;
-    color: rgb(10, 132, 255);
+    color: #0984e3;
 }
 
 button {
-    background-color: rgb(48, 209, 88);
+    background-color: #00b894;
     border: none;
     color: rgb(28, 28, 30);
     text-align: center;
